@@ -6,5 +6,5 @@
     
     display: grid;
     grid-template-columns: repeat(4, 25%);
-    grid-template-rows: 48x 48x 48x 48x 48x;
+    grid-template-rows: 1fr 48x 48x 48x 48x 48x;
 }
